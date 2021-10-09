@@ -1,0 +1,1 @@
+SELECT MIN(play_date) AS Start_Date FROM euro_cup_2016.match_mast;
